@@ -19,8 +19,8 @@
  Simulator will ask users to submit the specifications of the system from the console. 
 
  Sample System details are as follows - 
- 		double initialTemperaturePanel = 70.0; // in degrees Celsius
         double initialTemperatureTank = 20.0;  // in degrees Celsius
+ 		double initialTemperaturePanel = 70.0; // in degrees Celsius
         double panelArea = 2.0;                 // in square meters
         double tankVolume = 100000.0;            // 100 Litres, 
         double panelThermalCoefficient = 1.1; //  thermal coefficient for glass is 1.1 W/mK
